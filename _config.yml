@@ -8,7 +8,7 @@ header_pages:
 
 style: dark
 
-footer: 'mailto: <a href="mailto:white_len@naver.com">white_len@naver.com</a>'
+footer: 'Jekyll Theme: <a href="https://github.com/b2a3e8/jekyll-theme-console-demo-dark" target="_blank">Jekyll Console</a> | mailto: <a href="mailto:white_len@naver.com">white_len@naver.com</a>'
 
 # Build settings
 markdown: kramdown
