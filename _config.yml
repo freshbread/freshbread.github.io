@@ -11,7 +11,7 @@ header_pages:
 
 style: dark
 
-footer: '열심히 공부해서 좋은 개발자가 됩시다'
+footer: 'mailto: <a href="mailto:white_len@naver.com">white_len@naver.com</a>'
 
 # Build settings
 markdown: kramdown
