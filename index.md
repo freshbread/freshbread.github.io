@@ -1,5 +1,5 @@
 ---
-title: 전제현 github.io 페이지
+title: /전제현 github.io 페이지
 layout: home
 permalink: /
 ---
