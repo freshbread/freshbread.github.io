@@ -1,0 +1,18 @@
+title: '전제현 github io 페이지'
+description: "전제현 개발자의 github io 페이지"
+baseurl: 
+url: "https://freshbread.github.io"
+
+header_pages:
+  - index.md
+  - peter.md
+  - about.md
+  - contact.md
+
+style: dark
+
+footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
